@@ -1,13 +1,17 @@
 # Auto_navercafe_attendance
 ## This program will auto attendance in Naver cafe including Naver auto login detection passing
 
-0.크롬드라이버를 다운받는다.
+0.[크롬 드라이버를 다운](http://chromedriver.chromium.org/downloads)받는다.
 
 0.크롬 기본설정 파일의 위치를 찾는다 %localappdata%/Google/Chrome/User Data
 
 1.모든 크롬창을 닫고 실행해야한다.
 
 2.클릭할 버튼들이 꼭 자신의 화면안에 나타나 있어야한다.
+
+3.[Selenium을 사용한다.](http://pythonstudy.xyz/python/article/404-%ED%8C%8C%EC%9D%B4%EC%8D%AC-Selenium-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+4.각 태그들의 [xpath](http://lab.gamecodi.com/board/zboard.php?id=GAMECODILAB_Lecture&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=hit&desc=asc&no=495)와 name을 가져온다.
 
 
 
