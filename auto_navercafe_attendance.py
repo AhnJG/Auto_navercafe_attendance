@@ -20,7 +20,7 @@ sleep(0.5)
 
 while True: # 해당 시간이 되면 실행
     now = datetime.now()
-    if now.minute == 0:
+    if now.minute == 0: # 0분에 맞춰 실행, now.hour를 이용해 시간 설정 
         break
 
 start = time()
