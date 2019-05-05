@@ -7,7 +7,7 @@ options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple
 options.add_argument('disable-infobars')
 options.add_argument("--user-data-dir=C:/Users/arki1/AppData/Local/Google/Chrome/User Data") # 크롬 기본설정 데이터 가져오기
 
-driver = webdriver.Chrome('chromedriver', chrome_options=options) # 크롬 드라이버 로드
+driver = webdriver.Chrome('chromedriver', chrome_options=options) # 크롬 드라이버 로드, 크롬 드라이버는 반드시 같은 폴더에 있어야 
 
 sleep(0.5)
 driver.get('https://nid.naver.com/nidlogin.login') # 로그인 페이지 접속
