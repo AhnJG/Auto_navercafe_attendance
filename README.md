@@ -1,5 +1,5 @@
 # Auto_navercafe_attendance
-##This program will auto attendance in Naver cafe including Naver auto login detection passing
+## This program will auto attendance in Naver cafe including Naver auto login detection passing
 
 0.크롬드라이버를 다운받는다.
 
@@ -10,7 +10,8 @@
 2.클릭할 버튼들이 꼭 자신의 화면안에 나타나 있어야한다.
 
 
-##참고
+
+## 참고
 
 selenium을 통해서는 기존 창을 이용할 수 없고 항상 새로운 창이 뜨게된다.
 
