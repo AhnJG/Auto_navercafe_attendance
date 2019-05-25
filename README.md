@@ -1,5 +1,5 @@
 # Auto_navercafe_attendance <br>(네이버 카페 자동 출석 프로그램입니다.)
-## This program will auto attendance in Naver cafe including Naver auto login detection passing (네이버 자동로그인 탐지를 통과할 수 있습니다)
+## This program will auto attendance in Naver cafe including Naver auto login detection passing <br>(네이버 자동로그인 탐지를 통과할 수 있습니다)
 
 0.[크롬 드라이버를 다운](http://chromedriver.chromium.org/downloads)받는다.
 
