@@ -1,5 +1,5 @@
-# Auto_navercafe_attendance
-## This program will auto attendance in Naver cafe including Naver auto login detection passing
+# Auto_navercafe_attendance (네이버 카페 자동 출석 프로그램입니다.)
+## This program will auto attendance in Naver cafe including Naver auto login detection passing (네이버 자동로그인 탐지를 통과할 수 있습니다)
 
 0.[크롬 드라이버를 다운](http://chromedriver.chromium.org/downloads)받는다.
 
@@ -7,7 +7,7 @@
 
 1.모든 크롬창을 닫고 실행해야한다.
 
-2.클릭할 버튼들이 꼭 자신의 화면안에 나타나 있어야한다.
+2.클릭할 버튼이 자신의 화면안에 나타나 있어야한다.
 
 3.[Selenium을 사용한다.](http://pythonstudy.xyz/python/article/404-%ED%8C%8C%EC%9D%B4%EC%8D%AC-Selenium-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
